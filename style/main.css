@@ -169,6 +169,6 @@ footer {
     }
 
     .card-picture img {
-        content: url(./images/image-header-mobile.jpg);
+        content: url(../images/image-header-mobile.jpg);
     }
   }
